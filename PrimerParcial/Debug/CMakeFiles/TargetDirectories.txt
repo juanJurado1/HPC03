@@ -1,0 +1,3 @@
+/home/juan/Escritorio/SergioArboleda/ParcialesPrimerCorte/PrimerParcial/Debug/CMakeFiles/rebuild_cache.dir
+/home/juan/Escritorio/SergioArboleda/ParcialesPrimerCorte/PrimerParcial/Debug/CMakeFiles/edit_cache.dir
+/home/juan/Escritorio/SergioArboleda/ParcialesPrimerCorte/PrimerParcial/Debug/CMakeFiles/ParcialMatriz.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/juan/Escritorio/SergioArboleda/ParcialesPrimerCorte/PrimerParcial/ParcialMatriz/FMATRIZ/funciones.cpp
+funciones.h
+/home/juan/Escritorio/SergioArboleda/ParcialesPrimerCorte/PrimerParcial/ParcialMatriz/FMATRIZ/funciones.h
+
+/home/juan/Escritorio/SergioArboleda/ParcialesPrimerCorte/PrimerParcial/ParcialMatriz/FMATRIZ/funciones.h
+
+/home/juan/Escritorio/SergioArboleda/ParcialesPrimerCorte/PrimerParcial/ParcialMatriz/main.cpp
+iostream
+-
+
