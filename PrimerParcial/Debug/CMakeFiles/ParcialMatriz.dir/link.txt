@@ -1,1 +1,0 @@
-/usr/bin/g++  -g   CMakeFiles/ParcialMatriz.dir/main.cpp.o CMakeFiles/ParcialMatriz.dir/FMATRIZ/funciones.cpp.o  -o ParcialMatriz 

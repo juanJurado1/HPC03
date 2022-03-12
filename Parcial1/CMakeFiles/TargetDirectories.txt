@@ -1,0 +1,3 @@
+/home/juan/Escritorio/ParcialHPC1/Parcial1/CMakeFiles/rebuild_cache.dir
+/home/juan/Escritorio/ParcialHPC1/Parcial1/CMakeFiles/edit_cache.dir
+/home/juan/Escritorio/ParcialHPC1/Parcial1/CMakeFiles/Parcial1.dir

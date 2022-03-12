@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/juan/Escritorio/ParcialHPC1/Parcial1/FUNCIONESMATRICIALES/funciones.h
+eigen3/Eigen/Dense
+-
+iostream
+-
+
+/home/juan/Escritorio/ParcialHPC1/Parcial1/main.cpp
+iostream
+-
+FUNCIONESMATRICIALES/funciones.h
+/home/juan/Escritorio/ParcialHPC1/Parcial1/FUNCIONESMATRICIALES/funciones.h
+eigen3/Eigen/Dense
+-
+

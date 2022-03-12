@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/Parcial1.dir/main.cpp.o CMakeFiles/Parcial1.dir/FUNCIONESMATRICIALES/funciones.cpp.o  -o Parcial1 
