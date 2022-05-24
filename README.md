@@ -15,3 +15,4 @@
 7. Debemos ejecutar esa clase con el comando "./Parcial1"
 8. Se generara un menu con las diferentes opciones disponibles en el codigo y ya podremos navegar por este sin ningun problema
 
+## En la carpeta "CarpetaModeloCpp" se encontrara el modelo Sklearn y el modelo Cpp del tercer parcial, ademas de el pdf con el informe del mismo.
